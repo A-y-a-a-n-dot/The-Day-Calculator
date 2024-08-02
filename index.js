@@ -144,7 +144,7 @@ document.getElementById('sub').onclick = function(){
     let a=Math.floor(lastTwoDigits/4)
     
     let monthcode = monthy(month)
-    DaysOfWeek()
+    
     
     let yearcode = Calculator(year,z)
     let p = leaps(year)
