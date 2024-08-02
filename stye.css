@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap  ;
+    align-content: center;
+    align-items: center;
+    
+    background: no-repeat ;
+    background-size: 100vw;
+    background-image: url("evergrass.jpeg") ;
+   
+    
+}
+.cnt{
+    color:rgb(83, 91, 170);
+    font-size: 120px;
+    border: solid rgb(17, 230, 173);
+    border-width: 15px;
+    border-radius: 200px;
+    padding: 60px;
+    background-color: bisque  ;
+}
+input{
+    color:aliceblue;
+    font-size: 120px;
+    border: solid rgba(245, 75, 49, 0.863);
+    border-radius: 25px;
+    background-color: #801938;
+    width:10.5rem;
+    margin-bottom: 4.5rem;
+}
+#DMY{
+    color:rgb(255, 0, 21);
+}
+#Year{
+    width:17rem;
+}
+#sub{
+    color:aliceblue;
+    font-size: 90px;
+    border: solid rgba(198, 177, 25, 0.863);
+    border-radius: 25px;
+    background-color: #d6921c;
+    cursor: pointer;
+    ;}
